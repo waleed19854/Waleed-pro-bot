@@ -1,1 +1,2 @@
-# Waleed-pro-bot
+# Probot ✨
+Epic Discord Bot
